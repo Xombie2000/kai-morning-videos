@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2026-10-22",
+    "assignment": "L3-3 な-adjectives · L3-4 どんなN · Katakana ④",
+    "url": "https://www.youtube.com/watch?v=ztJSKEM1xDc",
+    "title": "Shiro Neko — い / な adjectives",
+    "test": false,
+    "badge": "",
+    "note": "Focus: adjective types. Also review どんなN and katakana in your class materials."
+  },
+  {
+    "date": "2026-10-23",
+    "assignment": "L4-1 Time · L4-2 から〜まで · Kanji writing",
+    "url": "https://www.youtube.com/watch?v=SAOKksVOSJA",
+    "title": "Shiro Neko — Telling Time",
+    "test": false,
+    "badge": "",
+    "note": "Focus: telling time. Use class materials for から〜まで and kanji writing."
+  },
+  {
+    "date": "2026-10-26",
+    "assignment": "L4-3 From place to place · L4-5 Dates",
+    "url": "https://www.youtube.com/watch?v=u18cV8p2fns",
+    "title": "Shiro Neko — Time Duration",
+    "test": false,
+    "badge": "",
+    "note": "Focus: expressing duration. Apply it to travel times; review calendar dates in your class materials."
+  },
+  {
+    "date": "2026-10-27",
+    "assignment": "L5-1 Basic verbs · Listening ③",
+    "url": "https://www.youtube.com/watch?v=pbhX0kkhVzs",
+    "title": "Shiro Neko — Basic Verbs · を + Verb",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Basic Verbs · を + Verb. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-10-28",
+    "assignment": "L5-2 Action location で · L5-3 行く・来る・帰る",
+    "url": "https://www.youtube.com/watch?v=6gfdPYfCPvM",
+    "title": "GENKI — Actions at a Place",
+    "test": false,
+    "badge": "",
+    "note": "Focus: action location で. Also review 行く・来る・帰る."
+  },
+  {
+    "date": "2026-10-29",
+    "assignment": "L5-4 Time に · Reading ①",
+    "url": "https://www.youtube.com/watch?v=NwNOBrWeFlM",
+    "title": "GENKI — At a Specific Time",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: At a Specific Time. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-10-30",
+    "assignment": "L5-5 よく・あまり · Particle review",
+    "url": "https://www.youtube.com/watch?v=5sg6soAkVtg",
+    "title": "Shiro Neko — Negative Verbs & Frequency",
+    "test": false,
+    "badge": "REVIEW",
+    "note": "Video focus: Negative Verbs & Frequency. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-02",
+    "assignment": "L6-1 Past-tense verbs · Listening ④",
+    "url": "https://www.youtube.com/watch?v=AZph28Gae_g",
+    "title": "Shiro Neko — Past-Tense Verbs",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Past-Tense Verbs. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-04",
+    "assignment": "L6-2 Past-tense adjectives · Composition",
+    "url": "https://www.youtube.com/watch?v=RiXd1exyZq8",
+    "title": "Shiro Neko — Past-Tense Adjectives",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Past-Tense Adjectives. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-05",
+    "assignment": "L7-1 あります・います · Existence",
+    "url": "https://www.youtube.com/watch?v=gQMqFixIiwE",
+    "title": "Shiro Neko — あります・います",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: あります・います. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-06",
+    "assignment": "L7-3 Where is N? · Location expressions",
+    "url": "https://www.youtube.com/watch?v=rxYyoygqZV4",
+    "title": "Shiro Neko — Location Words",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Location Words. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-09",
+    "assignment": "L7-2 Conversation · L8-1 は〜が",
+    "url": "https://www.youtube.com/watch?v=r6m6reItI7g",
+    "title": "Shiro Neko — Body Parts & Physical Features",
+    "test": false,
+    "badge": "",
+    "note": "Focus: physical descriptions and body vocabulary. Practice the assigned conversation and は〜が pattern separately."
+  },
+  {
+    "date": "2026-11-10",
+    "assignment": "L8-2 Nが好き · Kanji Test L1–L3",
+    "url": "https://www.youtube.com/watch?v=13TKZ4krJWs",
+    "title": "Shiro Neko — Nが好き · Likes",
+    "test": true,
+    "badge": "KANJI TEST ①",
+    "note": "Video focus: Nが好き · Likes. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-11",
+    "assignment": "L8-3 Adjective 〜くて · Listening ⑤",
+    "url": "https://www.youtube.com/watch?v=SKaZSSzGmXc",
+    "title": "Shiro Neko — くて・で · Connecting Adjectives",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: くて・で · Connecting Adjectives. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-12",
+    "assignment": "First-half grammar review · Listening ⑥",
+    "url": "https://www.youtube.com/watch?v=Ddk26LUFOSM",
+    "title": "Shiro Neko — Particle Review (partial)",
+    "test": false,
+    "badge": "REVIEW",
+    "note": "Partial review: particles in basic sentences. Prepare the full assigned first-half L1–L8-1 material separately."
+  },
+  {
+    "date": "2026-11-13",
+    "assignment": "First-half grammar test · L1–L8-1",
+    "url": "https://www.youtube.com/watch?v=Ddk26LUFOSM",
+    "title": "Shiro Neko — Particle Recap (partial)",
+    "test": true,
+    "badge": "GRAMMAR TEST",
+    "note": "Partial review: particles in basic sentences. Prepare the full assigned first-half L1–L8-1 material separately."
+  },
+  {
+    "date": "2026-11-16",
+    "assignment": "L8-4 〜たい・ほしい · Reading ②",
+    "url": "https://www.youtube.com/watch?v=s3Zkqi-0NaM",
+    "title": "Shiro Neko — ほしい (I Want)",
+    "test": false,
+    "badge": "",
+    "note": "Focus: wanting things with ほしい. Also review verb + たい."
+  },
+  {
+    "date": "2026-11-17",
+    "assignment": "Interview Test ① · Reading ③",
+    "url": "https://www.youtube.com/watch?v=QmdlVpGwe9c",
+    "title": "Shiro Neko — Introduce Yourself",
+    "test": true,
+    "badge": "INTERVIEW TEST ①",
+    "note": "Speaking warm-up: introducing yourself. Follow the class interview requirements."
+  },
+  {
+    "date": "2026-11-18",
+    "assignment": "L8-5 Vのが好き · Verb groups and dictionary form",
+    "url": "https://www.youtube.com/watch?v=su0kg2-BI6E",
+    "title": "Shiro Neko — Dictionary Form and ます Form",
+    "test": false,
+    "badge": "",
+    "note": "Focus: verb groups and dictionary form. Also review Vのが好き."
+  },
+  {
+    "date": "2026-11-19",
+    "assignment": "L8-6 Adjective そうです · Reading ④",
+    "url": "https://www.youtube.com/watch?v=LoFVrRlgSc4",
+    "title": "Shiro Neko — そうです · Looks / Seems",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: そうです · Looks / Seems. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-20",
+    "assignment": "L9-1 ましょうか · L9-2 てください · Kanji contest",
+    "url": "https://www.youtube.com/watch?v=wWdKRS9jBiU",
+    "title": "Shiro Neko — てください · Requests",
+    "test": false,
+    "badge": "KANJI CONTEST",
+    "note": "Focus: requests with てください. Also review ましょうか. The kanji contest is not a test-filter day."
+  },
+  {
+    "date": "2026-11-24",
+    "assignment": "て-form review · L9-3 ています",
+    "url": "https://www.youtube.com/watch?v=qvjrRiBgp3I",
+    "title": "Shiro Neko — ています · Actions & States",
+    "test": false,
+    "badge": "REVIEW",
+    "note": "Focus: ongoing actions. Review て-form before watching."
+  },
+  {
+    "date": "2026-11-25",
+    "assignment": "L10-1 てもいいですか · L10-2 てはいけません",
+    "url": "https://www.youtube.com/watch?v=ZskrDL0LtFc",
+    "title": "Shiro Neko — てもいいですか · Permission",
+    "test": false,
+    "badge": "",
+    "note": "Focus: permission with てもいいですか. Also review prohibition with てはいけません."
+  },
+  {
+    "date": "2026-11-26",
+    "assignment": "L10-3 Vて、Vます · Connecting actions",
+    "url": "https://www.youtube.com/watch?v=SFZWlX-09nw",
+    "title": "Shiro Neko — Connecting Verbs",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Connecting Verbs. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-11-27",
+    "assignment": "L10-4 のりかえ · Listening ⑧",
+    "url": "https://www.youtube.com/watch?v=H0Ygml0KiG8",
+    "title": "Nihongo no Jikan — Where Are They Going?",
+    "test": false,
+    "badge": "",
+    "note": "Listening warm-up: destinations. This is not a lesson on train transfers (のりかえ)."
+  },
+  {
+    "date": "2026-11-30",
+    "assignment": "L10-5 持って行きます · Mini-test",
+    "url": "https://www.youtube.com/watch?v=I1HS-sm5Dmk",
+    "title": "GENKI — Shall I Bring It?",
+    "test": true,
+    "badge": "MINI-TEST",
+    "note": "Related practice: 持ってくる and ましょうか. Compare bringing here with 持って行く (taking there)."
+  },
+  {
+    "date": "2026-12-01",
+    "assignment": "L11-1 どちらのほうが · Comparison",
+    "url": "https://www.youtube.com/watch?v=Bp929CUm_kM",
+    "title": "Shiro Neko — Comparing Two Things",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Comparing Two Things. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-12-02",
+    "assignment": "L11-2 〜は〜より · Kanji Test L4–L6",
+    "url": "https://www.youtube.com/watch?v=Bp929CUm_kM",
+    "title": "Shiro Neko — 〜より · Comparisons",
+    "test": true,
+    "badge": "KANJI TEST ②",
+    "note": "Video focus: 〜より · Comparisons. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-12-03",
+    "assignment": "L11-3 〜がいちばん · Superlatives",
+    "url": "https://www.youtube.com/watch?v=A4efCNncuiY",
+    "title": "Shiro Neko — いちばん · Superlatives",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: いちばん · Superlatives. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-12-04",
+    "assignment": "L11-4 〜すぎます · Too much",
+    "url": "https://www.youtube.com/watch?v=n70Zl2vmAo8",
+    "title": "Shiro Neko — すぎる · Too Much",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: すぎる · Too Much. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-12-07",
+    "assignment": "L11-5 〜やすい・にくい · Ease and difficulty",
+    "url": "https://www.youtube.com/watch?v=jza9sEO-IOM",
+    "title": "GENKI — Easy to Do",
+    "test": false,
+    "badge": "",
+    "note": "Focus: やすい. Also review にくい in your class materials."
+  },
+  {
+    "date": "2026-12-08",
+    "assignment": "Interview test · Self-introduction",
+    "url": "https://www.youtube.com/watch?v=QmdlVpGwe9c",
+    "title": "Shiro Neko — Introduce Yourself",
+    "test": true,
+    "badge": "INTERVIEW TEST",
+    "note": "Speaking warm-up: introducing yourself. Follow the class interview requirements."
+  },
+  {
+    "date": "2026-12-09",
+    "assignment": "Casual speech · Verb ない-form · Reading ⑦",
+    "url": "https://www.youtube.com/watch?v=C9Pz3qC3v1M",
+    "title": "Shiro Neko — Casual Speech & Short Forms",
+    "test": false,
+    "badge": "",
+    "note": "Video focus: Casual Speech & Short Forms. Complete the other assigned class work separately."
+  },
+  {
+    "date": "2026-12-10",
+    "assignment": "L12-1 ないでください · L12-2 V1ないで、V2",
+    "url": "https://www.youtube.com/watch?v=iuUoJQb5VoA",
+    "title": "Shiro Neko — ないでください · Please Don’t",
+    "test": false,
+    "badge": "",
+    "note": "Focus: ないでください. Also review V1ないで、V2."
+  },
+  {
+    "date": "2026-12-11",
+    "assignment": "L12-3 と思います · L12-4 どうして · Kanji Test ③",
+    "url": "https://www.youtube.com/watch?v=e6-nTWx-A1Q",
+    "title": "Shiro Neko — と思います · I Think",
+    "test": true,
+    "badge": "KANJI TEST ③",
+    "note": "Focus: と思います. Also review どうして and the assigned kanji."
+  },
+  {
+    "date": "2026-12-14",
+    "assignment": "L12-5 〜し・〜から · Listening test",
+    "url": "https://www.youtube.com/watch?v=le6az23sDuY",
+    "title": "Shiro Neko — 〜し〜し · Giving Reasons",
+    "test": true,
+    "badge": "LISTENING TEST",
+    "note": "Focus: giving reasons with し. Also review から and prepare for the listening test."
+  },
+  {
+    "date": "2026-12-15",
+    "assignment": "Reading test · Grammar review",
+    "url": "https://www.youtube.com/watch?v=4Fo1qwYQjRk",
+    "title": "Nihongo no Jikan — Father and Son EP18",
+    "test": true,
+    "badge": "READING TEST",
+    "note": "Optional listening with a transcript on the publisher’s site; not reading-test preparation. This story is more challenging."
+  },
+  {
+    "date": "2026-12-16",
+    "assignment": "Second-half grammar test · L8-2–L12-3",
+    "url": "https://www.youtube.com/watch?v=T5m6FyChgiM",
+    "title": "Shiro Neko — て-form Conjugation Review",
+    "test": true,
+    "badge": "GRAMMAR TEST",
+    "note": "Partial review: て-form only. Prepare the full assigned L8-2–L12-3 test range."
+  },
+  {
+    "date": "2026-12-17",
+    "assignment": "Speech test · Free talk",
+    "url": "https://www.youtube.com/watch?v=QmdlVpGwe9c",
+    "title": "Shiro Neko — Introduce Yourself",
+    "test": true,
+    "badge": "SPEECH TEST",
+    "note": "Speaking warm-up: self-introduction only. Prepare your assigned speech and free talk."
+  },
+  {
+    "date": "2026-12-18",
+    "assignment": "Second-half feedback · Reading ⑧",
+    "url": "https://www.youtube.com/watch?v=H0Ygml0KiG8",
+    "title": "Nihongo no Jikan — Where Are They Going?",
+    "test": false,
+    "badge": "FEEDBACK",
+    "note": "Listening practice: destinations. Complete Reading ⑧ and class feedback separately."
+  }
+]

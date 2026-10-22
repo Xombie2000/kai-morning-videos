@@ -1,0 +1,30 @@
+{
+  "name": "kai-morning-videos",
+  "version": "1.0.0",
+  "description": "Free, private, buildless KAI Level 1 morning study guide",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "preview": "python3 -m http.server 8765 --bind 127.0.0.1",
+    "test": "playwright test --project=chrome-desktop --project=webkit-iphone --project=webkit-ipad",
+    "test:firefox": "playwright test --project=firefox-desktop --project=firefox-phone",
+    "verify:videos": "python3 scripts/verify-videos.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xombie2000/kai-morning-videos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Xombie2000/kai-morning-videos/issues"
+  },
+  "homepage": "https://github.com/Xombie2000/kai-morning-videos#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  },
+  "private": true
+}
